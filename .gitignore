@@ -1,0 +1,17 @@
+.DS_Store
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Local Xcode build products and user state
+Build/
+DerivedData/
+*.xcresult
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcuserstate
+
+# Manual acceptance-test scratch files
+test.txt
+new-file.txt
